@@ -1,0 +1,40 @@
+*{
+    background-color: burlywood;
+    font-size: 30px;
+    text-align: center;
+}
+
+.s1{
+    letter-spacing: 15px;
+    text-shadow: 3px 3px 3px rgb(59, 41, 17);
+}
+img{
+    border: 1px solid;
+    border-radius: 20%;
+}
+.s2{
+    border: 5px solid rgb(59, 41, 17);
+}
+
+.s3{
+    color: white;
+    text-shadow: 3px 3px 3px coral;
+}
+table , th , tr{
+    border: 10px solid black;
+    padding: 10px;
+
+}
+.tbc{
+    display: flex;
+    justify-content: center;   
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: goldenrod;
+}
+label , input , select , option{
+    color: white;
+    text-shadow: 3px 3px 3px brown;
+}
